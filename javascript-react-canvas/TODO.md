@@ -2,6 +2,6 @@
 
 ## TODO
 
-move canvas logic outside of app
-
 ## DONE
+
+moved canvas logic outside of app
